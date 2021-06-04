@@ -1,0 +1,19 @@
+header {
+} 
+footer {
+    background-color: #343434;
+    padding: 40px;
+}
+#header {
+    background-image: url(../images/slider-1.png);
+    height: 700px;
+}
+li {
+    color: white;
+}
+ul.navega li{
+    display: inline;
+}
+#slider1 {
+    color: white;
+}
